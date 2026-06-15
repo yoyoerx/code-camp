@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code (keep the folder shareable; ignore personal settings)
+.vscode/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Student work-in-progress scratch files (optional; uncomment to ignore)
+# scratch.py
+# my_notes.md
